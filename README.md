@@ -5,10 +5,10 @@ Application of NLP techniques to better understand the other factors involved wi
 organizations and entities mentioned in the articles.
 
 Bitcoin Sentiment Example:<br>
-![Bitcoin Sentiment](https://github.com/dowdlea86/nlp_drills/Images/Bitcoin_sentiment.png)<br>
+![Bitcoin Sentiment](https://github.com/dowdlea86/nlp_drills/blob/main/Images/Bitcoin_sentiment.png)<br>
 
 Bitcoin Tokenizer Counter Example:<br>
-![Bitcoin Sentiment](https://github.com/dowdlea86/nlp_drills/Images/token_counter_bitcoin.png)<br>
+![Bitcoin Sentiment](https://github.com/dowdlea86/nlp_drills/blob/main/Images/token_counter_bitcoin.png)<br>
 
 Bitcoin NER Example:<br>
-![Bitcoin Sentiment](https://github.com/dowdlea86/nlp_drills/Images/Bitcoin_ner.png)<br>
+![Bitcoin Sentiment](https://github.com/dowdlea86/nlp_drills/blob/main/Images/Bitcoin_ner.png)<br>
